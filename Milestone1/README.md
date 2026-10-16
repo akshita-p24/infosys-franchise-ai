@@ -30,4 +30,23 @@ project.
 4. Open the ngrok URL printed by the last cell.
 
 ## Screenshots
-(Add these in Step 12.)
+### Login
+![Login](screenshots/login.png)
+
+### Signup
+![Signup](screenshots/signup.png)
+
+### Forgot Password (Security Question)
+![Forgot Password - Security Question](screenshots/forgot_security.png)
+
+### Forgot Password (OTP)
+![Forgot Password - OTP](screenshots/forgot_otp.png)
+
+### OTP Email
+![OTP Email](screenshots/otp_email.png)
+
+### User Dashboard
+![User Dashboard](screenshots/user_dashboard.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin_dashboard.png)
