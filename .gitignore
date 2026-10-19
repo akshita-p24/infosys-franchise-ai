@@ -1,4 +1,33 @@
+# Virtual Environments
 venv/
+.venv/
+env/
+
+# Environment and Secret Files
 .env
+.env.*
+*.env
+.streamlit/secrets.toml
+
+# Database Files
 *.db
+*.db-journal
+*.sqlite3
+data/users.db
+Milestone1/data/
+Milestone1/users.db
+
+# Python Caches & Bytecode
 __pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit temporary files
+.streamlit/*.log
