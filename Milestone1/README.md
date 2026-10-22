@@ -11,18 +11,6 @@
   <em>"Smarter Decisions. Stronger Franchises."</em>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-1.x-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-HS256-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-3-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-Ready-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-</p>
-
----
-
-## 👋 Hey there! Let me walk you through what I built.
-
 This is **Milestone 1** of my Infosys Springboard Internship project — **FranchiseOps AI**, which stands for *Agentic AI for Franchise Management System with Performance Monitoring Assistance*.
 
 Before any AI agent can give franchise insights, recommend stock levels, or flag underperforming outlets, the very first thing you need is a rock-solid **authentication system**. Who is the user? Are they who they say they are? Can they be trusted with this data?
