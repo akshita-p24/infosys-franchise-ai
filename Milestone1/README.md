@@ -254,22 +254,6 @@ Milestone1/
 
 ---
 
-## 🏁 Submission Checklist
-
-- [x] `Milestone1/` sub-repository created inside the main project repo
-- [x] `FranchiseOps_AI_Milestone1.ipynb` — fully self-contained Google Colab notebook
-- [x] `README.md` — detailed, humanized documentation (this file)
-- [x] User Registration with bcrypt hashing (12 rounds) + security question hashing
-- [x] Login accepting username or email + JWT HS256 session tokens
-- [x] Server-side token revocation via `token_version` on password reset
-- [x] Forgot Password via Security Question (5 attempt limit)
-- [x] Forgot Password via Gmail SMTP OTP (5 min expiry, single-use, cooldown)
-- [x] User Profile & SaaS Dashboard with upcoming module previews
-- [x] Executive Admin Portal with RBAC + searchable user directory
-- [x] All secrets handled via Google Colab Secrets (zero hardcoded credentials)
-- [x] All 7 screenshots captured, embedded, and linked in this README
-
----
 
 <p align="center">
   Made with care for <strong>Infosys Springboard Internship 7.0 — Batch 4</strong><br/>
