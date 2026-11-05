@@ -11,18 +11,6 @@
   <em>"Smarter Decisions. Stronger Franchises."</em>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-1.x-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-HS256-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-3-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-Ready-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-</p>
-
----
-
-## 👋 Hey there! Let me walk you through what I built.
-
 This is **Milestone 1** of my Infosys Springboard Internship project — **FranchiseOps AI**, which stands for *Agentic AI for Franchise Management System with Performance Monitoring Assistance*.
 
 Before any AI agent can give franchise insights, recommend stock levels, or flag underperforming outlets, the very first thing you need is a rock-solid **authentication system**. Who is the user? Are they who they say they are? Can they be trusted with this data?
@@ -254,22 +242,6 @@ Milestone1/
 
 ---
 
-## 🏁 Submission Checklist
-
-- [x] `Milestone1/` sub-repository created inside the main project repo
-- [x] `FranchiseOps_AI_Milestone1.ipynb` — fully self-contained Google Colab notebook
-- [x] `README.md` — detailed, humanized documentation (this file)
-- [x] User Registration with bcrypt hashing (12 rounds) + security question hashing
-- [x] Login accepting username or email + JWT HS256 session tokens
-- [x] Server-side token revocation via `token_version` on password reset
-- [x] Forgot Password via Security Question (5 attempt limit)
-- [x] Forgot Password via Gmail SMTP OTP (5 min expiry, single-use, cooldown)
-- [x] User Profile & SaaS Dashboard with upcoming module previews
-- [x] Executive Admin Portal with RBAC + searchable user directory
-- [x] All secrets handled via Google Colab Secrets (zero hardcoded credentials)
-- [x] All 7 screenshots captured, embedded, and linked in this README
-
----
 
 <p align="center">
   Made with care for <strong>Infosys Springboard Internship 7.0 — Batch 4</strong><br/>
